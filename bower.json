@@ -1,5 +1,6 @@
 {
   "name": "zreptil-date-picker",
+  "description": "a date picker element",
   "main": "zreptil-date-picker.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",

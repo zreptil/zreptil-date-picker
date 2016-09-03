@@ -1,4 +1,4 @@
-# \<date-picker\>
+# \<zreptil-date-picker\>
 
 
 
